@@ -1,0 +1,60 @@
+* {
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-size: 1.6rem;
+    line-height: 1.5;
+    background-color: rgb(223, 222, 222);
+}
+
+#description {
+    text-align: center;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+}
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+h3 {
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: bold;
+}
+
+figure {
+    background-color: white;
+    margin: auto;
+}
+
+figcaption {
+    display: block;
+    text-align: center;
+    padding: 20px;
+    font-size: 1rem;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+li {
+    list-style-type: disc;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    padding: 10px;
+}
